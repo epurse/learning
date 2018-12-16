@@ -7,4 +7,4 @@
 ## 同态加密行业应用
 ## 同态加密资料
 ## 相关项目
-[enigma]("http://enigma.mit.edu/enigma_full.pdf")
+[enigma]("./enigma.md")
