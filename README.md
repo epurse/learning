@@ -7,4 +7,5 @@
 ## 同态加密行业应用
 ## 同态加密资料
 ## 相关项目
-[enigma]("./enigma.md")
+[enigma]("./projects/enigma.md")
+[numerai]("./projects/enumerai.md")
